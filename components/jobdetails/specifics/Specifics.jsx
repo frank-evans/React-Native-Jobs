@@ -17,7 +17,7 @@ const Specifics = ({ title, points }) => {
         ))}
       </View>
     </View>
-  )
-}
+  );
+};
 
 export default Specifics
