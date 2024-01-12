@@ -5,6 +5,8 @@ import { Stack, useRouter } from 'expo-router';
 import { COLORS, icons, images, SIZES } from '../constants';
 import { Nearbyjobs, Popularjobs, ScreenHeaderBtn, Welcome } from '../components';
 
+{/* <ScreenHeaderBtn iconUrl={icons.menu} dimension="60%" /> */}
+
 const Home = () => {
     const router = useRouter();
     const [searchTerm, setSearchTerm] = useState("");
@@ -16,12 +18,19 @@ const Home = () => {
                     headerStyle: { backgroundColor: COLORS.lightWhite },
                     headerShadowVisible: false,
                     headerLeft: () => (
-                        <ScreenHeaderBtn iconUrl={icons.menu} dimension="60%" />
+                        <ScreenHeaderBtn dimension="0%" />
+                        
                     ),
                     headerRight: () => (
                         <ScreenHeaderBtn iconUrl={images.profile} dimension="100%" />
                     ),
-                    headerTitle: "",
+                    headerTitle: "Tech Team Up",
+                    headerTitleAlign:'center',
+                    headerTitleStyle: {
+                        fontFamily: 'Verdana',
+                        fontWeight: '500',
+                        color: '#FF7754',
+                    }
                 }}
             />
             <ScrollView showsVerticalScrollIndicator={false}>
