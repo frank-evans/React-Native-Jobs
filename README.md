@@ -23,9 +23,13 @@ This is a mobile application with cross-platform code for desktop that enables u
 ## View Live build on Android devices
 
 1.) Download the free Expo(Go) app from the Google Play store here:   [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US&gl=US)
+
 2.) Select "Scan QR code"
+
 3.) Scan the QR code below 
-![QR Code](https://thefrank86.github.io/Portfolio/gameContainer/static/Android-app.png)
+
+<img src="https://thefrank86.github.io/Portfolio/gameContainer/static/Android-app.png" alt="QR Code" width="50%">
+<!-- ![QR Code](https://thefrank86.github.io/Portfolio/gameContainer/static/Android-app.png) -->
 
 ## Usage
 
