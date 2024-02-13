@@ -17,7 +17,7 @@ npx create-expo-app -e with-router
 
 ## Description
 
-I am interested in so many types of interactive software.  I thought it would be fun to learn how to make a mobile app that could help me team up with an awesome group.
+I thought it would be fun to learn how to make a mobile app that could also help me team up with an awesome group.
 This is a mobile application with cross-platform code for desktop that enables users to do an advanced search for company team openings, view detailed position information, and locate available positions based on their current location. 
 
 ## View Live build on Android devices
