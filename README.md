@@ -28,8 +28,8 @@ This is a mobile application with cross-platform code for desktop that enables u
 
 3.) Scan the QR code below 
 
-<img src="https://thefrank86.github.io/portfolio/gameContainer/static/Android-app.png" alt="QR Code" width="50%">
-<!-- ![QR Code](https://thefrank86.github.io/Portfolio/gameContainer/static/Android-app.png) -->
+<img src="https://frank-evans.github.io/portfolio/gameContainer/static/Android-app.png" alt="QR Code" width="50%">
+<!-- ![QR Code](https://frank-evans.github.io/Portfolio/gameContainer/static/Android-app.png) -->
 
 ## Usage
 
